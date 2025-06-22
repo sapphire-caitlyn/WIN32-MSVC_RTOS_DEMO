@@ -1,0 +1,50 @@
+﻿  main.c
+  trcKernelPort.c
+  trcSnapshotRecorder.c
+  croutine.c
+  event_groups.c
+  heap_5.c
+  stream_buffer.c
+C:\FreeRTOS\FreeRTOS\Source\FreeRTOS-Kernel\portable\MemMang\heap_5.c(364,9): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+C:\FreeRTOS\FreeRTOS\Source\FreeRTOS-Kernel\portable\MemMang\heap_5.c(429,21): warning C4311: 'type cast': pointer truncation from 'void *' to 'uint32_t'
+  timers.c
+  AbortDelay.c
+  BlockQ.c
+  blocktim.c
+  countsem.c
+  death.c
+  dynamic.c
+  EventGroupsDemo.c
+  flop.c
+  GenQTest.c
+  IntSemTest.c
+  MessageBufferAMP.c
+C:\FreeRTOS\FreeRTOS\Demo\Common\Minimal\MessageBufferAMP.c(304,5): warning C4098: 'prvCoreBInterruptHandler': 'void' function returning a value
+  PollQ.c
+  Generating Code...
+  Compiling...
+  QPeek.c
+  QueueOverwrite.c
+  QueueSet.c
+  QueueSetPolling.c
+  recmutex.c
+  semtest.c
+  StaticAllocation.c
+  MessageBufferDemo.c
+  StreamBufferDemo.c
+  StreamBufferInterrupt.c
+  TaskNotify.c
+  TaskNotifyArray.c
+  timerdemo.c
+  list.c
+  port.c
+  queue.c
+  tasks.c
+  main_integer.c
+  main_blinky.c
+  main_full.c
+  Generating Code...
+  Compiling...
+  Run-time-stats-utils.c
+  Generating Code...
+  WIN32.vcxproj -> C:\src\Projects\UCS\OS\WIN32-MSVC\x64\Debug\RTOSDemo.exe
